@@ -13,9 +13,9 @@ $_GET['p'] is page number
 
 $name_table = "table_name";
 $select_sql = "*";
-$where = "WHERE id='1'";
-$order = "ORDER BY id DESC";
-$records_per_page = 2; // numeric value
+$where = "WHERE id='1'"; // Can be empty
+$order = "ORDER BY id DESC"; // Can be empty
+$records_per_page = 2; // Numeric value
 
 include 'pagination.php'; 
 
