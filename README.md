@@ -52,7 +52,7 @@ a.page_numbers {
 }
 ```
 ## MySQL
-My script is using "$pripoj" variable for connection to MySQL, you can use command bellow, or rewrite this variable in pagination.php file.
+My script uses "$pripoj" variable for connection to MySQL, you can use command bellow, or rewrite this variable in pagination.php file.
 ```
 $pripoj = mysqli_connect("localhost","my_user","my_password","my_db");
 ```
