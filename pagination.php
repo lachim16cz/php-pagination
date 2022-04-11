@@ -57,9 +57,6 @@ a.page_numbers {
 	text-decoration: underline;
 }
 ------------------------------------------------------------------------
-
-**** ---- Author: http://michalmasarik.cz/ ---- ****
-
 */
 
 /* Check input variables */
