@@ -3,8 +3,8 @@
 it is a simple paging script that splits a large number of records into individual pages.
 
 ## Result
-![Application](../../img_description/pager_1.png)
-![Connection](../../img_description/pager_2.png)
+![Example](/img_description/pager_1.png)
+![Example2](/img_description/pager_2.png)
 
 ## Example of use
 ```
