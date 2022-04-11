@@ -1,6 +1,5 @@
 # PHP pagination
-## Description
-it is a simple paging script that splits a large number of records into individual pages.
+It is a simple paging script that splits a large number of records into individual pages.
 
 ## Result
 ![Example](/img_description/pager_1.png)
